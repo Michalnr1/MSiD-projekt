@@ -1,0 +1,2 @@
+Aby zebrać ponownie dane należy odkomentować linię 86 i 89 (lub 87 i 90 do testów. Wtedy do pliku test.txt można wkleić testowy pakiet linków.) w pliku Collector.py. Następnie można uruchomić Main.py.
+Main.py można też uruchomić od razu. Wtedy program będzie korzystał z danych zebranych w pliku Boards.json.
